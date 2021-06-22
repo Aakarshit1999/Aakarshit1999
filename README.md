@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F5f%2F8a%2Fb7%2F5f8ab7acf5c02d206a9aa9f8b5ec7861.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F445574956880151090%2F&tbnid=YBIe_QxYwu6xWM&vet=12ahUKEwiM9M-nmqzxAhUulUsFHZtiBfgQMygAegUIARC4AQ..i&docid=NY8rfLHsDN6iwM&w=800&h=600&q=ap%20gif&hl=en&ved=2ahUKEwiM9M-nmqzxAhUulUsFHZtiBfgQMygAegUIARC4AQ" alt="Coder GIF" width="600" height="300">
+  <img src="https://github.com/Aakarshit1999/Aakarshit-Pandey/blob/master/logo.png" alt="Coder GIF" width="600" height="300">
  
 </p>
 
