@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning React JS and Data engineering and analysis
 - 👯 Data Analyst/Frontend Developer
 - 💬 Ask me about  **C++**|**Python**|**Data**|**Frontend**.
-- 📫 How to reach me: aakarshit6143@gmail.com
+- 📫 How to reach me: aakarshitpandeyofficial@gmail.com
 
  <hr>
 <h3 align="center">Languages and Tools:</h3>
