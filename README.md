@@ -1,9 +1,3 @@
-<p align="center">
-
-  <img src="https://github.com/Aakarshit1999/Aakarshit-Pandey/blob/master/logo.png" alt="Coder GIF" width="600" height="300">
- 
-</p>
-
 # Hi guys 👋  I'm Aakarshit Pandey
 
 
